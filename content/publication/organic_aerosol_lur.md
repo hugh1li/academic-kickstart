@@ -39,8 +39,8 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/2nd.pdf"
-# url_link = "https://pubs.acs.org/doi/10.1021/acs.est.7b03674"
+# url_pdf = "pdf/2nd.pdf"
+url_pdf = "https://pubs.acs.org/doi/10.1021/acs.est.7b03674"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
