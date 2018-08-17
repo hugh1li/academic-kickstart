@@ -63,9 +63,10 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption 😄"
+image = "headers/2nd.jpg"
+caption = "Table of Contents Art"
 
+# the header is for featured image...
 +++
-
-Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
+<!--
+Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page. -->
