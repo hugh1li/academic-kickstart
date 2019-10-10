@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Natural Gas",
     "Air Pollution",
-    "Land-use Regression"
+    "Land-use Regression",
     "Human Exposure"
   ]
 
